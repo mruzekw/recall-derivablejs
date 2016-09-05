@@ -1,5 +1,5 @@
-# Recall ([Demo](http://mruzekw.github.io/recall-derivablejs))
-**Written with ReactJS**
+# Recall
+**Written with DerivableJS**
 
 Test your memory!
 
